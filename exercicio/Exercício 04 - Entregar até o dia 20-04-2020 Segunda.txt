@@ -1,0 +1,16 @@
+Item postado em 15 de abr. Editado às 10:53
+-- 01 lista os veiculos vendidos por ordem de dt_pedido – os mais recentes
+-- 02 lista 3 primeiros registros, cliente e dt_pedido (compra) – os mais antigos pedidos
+-- 03 lista o vendedor e o veiculo, cujo o nome do vendedor termina com a letra (a)
+-- 04 lista veiculo vendido, o cliente que comprou e o vendedor que vendeu em que o valor é acima de 100.000,00
+-- 05 lista o veiculos vendidos usando o distinct
+-- 06 lista os nomes dos clientes e os veiculos quando o cliente começa (well) ou carro (onix)
+-- 07 lista o nome dos clientes que compraram o veiculo (só não repetir o nome)
+-- 08 lista os veiculos, valores e o desconto de 30%
+-- 09 lista o produto cartesiano entre cliente e veiculo
+-- 10 lista o produto cartesiano entre veiculo e cliente
+-- 11 atualizar a comissão de vendas em 20% do carro Onix
+-- 12 atualizar o desconto desconto de 40% para os clientes (2 - Rogeria Negreti, 3 -Henrique Silva, 4 - Wellington Alves)
+-- 13 lista os vendedores que nunca venderam
+-- 14 lista os veículos que não foram vendidos (se tem?)
+-- 15 lista os clientes que compraram sem repetir o nome

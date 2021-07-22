@@ -1,0 +1,39 @@
+--01   Aumenta o salario para 6000  do funcionario matricula = 1
+
+ 
+--02 	Alterar  os funcionario do setor (administracao) para setor (informatica)  
+ 
+
+--03 	Alterar  os funcionarios com salario acima de 5000 para o cargo de (executivo) 
+
+ 
+ 
+--04  	Excluir tb_cargo  7 - executivo (vê se é possível ? Explique ? )
+ 
+ 
+--05  	Excluir tb_cargo  5 - advogado (vê se é possível ? Explique ? )
+ 
+
+--06  	Aumenta o salario dos funcionarios em 20%  
+
+ 
+
+--07  	diminuir o salario dos funcionario em 10%  
+
+ 
+ 
+--08  	Aumenta o salario dos funcionarios em 30%  quando cargo enfermeiro
+
+ 
+--09  	Incluir o novo funcionario 
+--                           (matricula, funcionario,  dt_nascimento, cd_setor, cd_cargo, salario)
+--                           (7,'Eliane Nobrega', '1975-01-20',  1, 2, 15000) 
+ 
+ 
+
+-- 10 	Lista todos os funcionarios quando o salario >= 5000
+ 
+-- 11	Lista todos os funcionarios quando o salario >= 6000 e setor de informatica 
+ 
+-- 12	Lista todos os funcionarios quando o salario >= 7000 e cargo for diferente de (executivo)
+ 
